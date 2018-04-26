@@ -35,3 +35,5 @@ For the most part though I do what I want, even if it is something as unexciting
 Mostly though, I am a full-on Christian who is sold on the Lord Jesus Christ for eternity. You can say obeying Him is my calling in life.
 
 PS: This is a work in progress because I am a work in progress.
+
+Signing off!!!
