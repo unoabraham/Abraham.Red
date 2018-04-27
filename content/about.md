@@ -5,7 +5,7 @@ showDate: false
 ---
 Hi, I’m Rajiv Abraham Nela.
 
-![alt text] (https://www.dropbox.com/s/a67q56h529fr546/RajivAbrahamNela.jpg?raw=1 "Rajiv Abraham Nela")
+![alt text] (\static\mages\RajivAbrahamNela.jpg "Rajiv Abraham Nela")
 
 I’m an investor and geek from India. I love to introduce myself as Abraham, Christian… just doesn’t have the same ring to it as Bond, James Bond.
 
