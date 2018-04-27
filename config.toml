@@ -21,7 +21,7 @@ copyright = "&copy;2018 Rajiv Abraham Nela"
   twitterHandle = "unoabraham"
 
   # Favicon
-  favicon = "favicon.ico"
+  favicon = "images/RajivAbrahamNela.jpg"
 
   # Section - Content
   [params.content]
