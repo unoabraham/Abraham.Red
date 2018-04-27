@@ -7,3 +7,4 @@ tags: ["", "", ""]
 categories: [""]
 moods: [""]
 ---
+Email is the fastest, reach me at <mailto:a@brah.am>.
