@@ -53,15 +53,15 @@ copyright = "&copy;2018 Rajiv Abraham Nela"
       heading = "Connect"
 
       [[params.links.list1.link]]
-        text = "Microblogg"
-        url = "<a href="https://abraham.uno/" target="_blank" rel="noopener">Microblog</a>"
+        text = "Microblogger"
+        url = "https://abraham.uno/"
 
       [[params.links.list1.link]]
         text = "Linkblogger"
         url = "https://abraham.link/"
 
       [[params.links.list1.link]]
-        text = "Photoblog"
+        text = "Photoblogger"
         url = "https://abraham.gallery/"
 
       [[params.links.list1.link]]
