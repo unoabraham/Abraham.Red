@@ -53,7 +53,7 @@ copyright = "&copy;2018 Rajiv Abraham Nela"
       heading = "Connect"
 
       [[params.links.list1.link]]
-        text = "Microblog"
+        text = "Blog"
         url = "https://abraham.uno/"
 
       [[params.links.list1.link]]
