@@ -23,18 +23,18 @@ theme                   = "hugo-theme-sam"
 
 [[params.mainMenu]]
     link = "/about"
-    text = "About"
+    text = "about"
 
 [[params.mainMenu]]
     link = "/now"
-    text = "Now"
+    text = "now"
 
 [[params.mainMenu]]
     link = "/elsewhere"
-    text = "Elsewhere"
+    text = "elsewhere"
 
 [[params.mainMenu]]
     link = "/contact"
-    text = "Contact"
+    text = "contact"
     
 [blackfriday] hrefTargetBlank = true
