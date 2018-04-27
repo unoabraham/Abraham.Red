@@ -1,11 +1,7 @@
 ---
 title: "Now"
-date: 2018-04-27T05:48:15+05:30
-draft: true
-author: "Rajiv Abraham Nela"
-tags: ["", "", ""]
-categories: [""]
-moods: [""]
+date: 2018-04-27T06:23:08+05:30
+showDate: false
 ---
 Most folks talk about themselves and their past on their About page. My Now page talks about what's caught my fancy in the here and now.
 

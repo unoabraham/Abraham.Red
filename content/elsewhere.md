@@ -1,11 +1,7 @@
 ---
 title: "Elsewhere"
-date: 2018-04-27T05:47:43+05:30
-draft: true
-author: "Rajiv Abraham Nela"
-tags: ["", "", ""]
-categories: [""]
-moods: [""]
+date: 2018-04-27T06:22:56+05:30
+showDate: false
 ---
 I don’t blog that often (though I’m trying to change that).
 

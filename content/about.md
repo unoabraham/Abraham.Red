@@ -1,11 +1,7 @@
 ---
 title: "About"
-date: 2018-04-27T05:45:47+05:30
-draft: true
-author: "Rajiv Abraham Nela"
-tags: ["", "", ""]
-categories: [""]
-moods: [""]
+date: 2018-04-27T06:22:20+05:30
+showDate: false
 ---
 Hi, I’m Rajiv Abraham Nela.
 
