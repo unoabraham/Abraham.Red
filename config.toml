@@ -4,7 +4,9 @@ languageCode = "en-US"
 title = "Rajiv Abraham Nela"
 theme = "hugo-split-theme"
 disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT"]
-[blackfriday] hrefTargetBlank = true
+[blackfriday]
+  plainIDAnchors = true
+  hrefTargetBlank = true
 
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = "UA-112438396-3"
