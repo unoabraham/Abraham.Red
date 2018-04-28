@@ -56,15 +56,15 @@ copyright = "&copy;2018 Rajiv Abraham Nela"
 
       [[params.links.list1.link]]
         text = "Microblogger"
-        url = "https://abraham.uno/"
+        url = "https://abraham.uno/ rel="me""
 
       [[params.links.list1.link]]
         text = "Linkblogger"
-        url = "https://abraham.link/"
+        url = "https://abraham.link/ rel="me""
 
       [[params.links.list1.link]]
         text = "Photoblogger"
-        url = "https://abraham.gallery/"
+        url = "https://abraham.gallery/ rel="me""
 
       [[params.links.list1.link]]
         text = ""
@@ -77,15 +77,15 @@ copyright = "&copy;2018 Rajiv Abraham Nela"
 
       [[params.links.list2.link]]
         text = "Facebook"
-        url = "https://www.facebook.com/939abraham"
+        url = "https://www.facebook.com/939abraham rel="me""
 
       [[params.links.list2.link]]
         text = "Twitter"
-        url = "https://twitter.com/unoabraham"
+        url = "https://twitter.com/unoabraham rel="me""
 
       [[params.links.list2.link]]
         text = "Mastodon"
-        url = "https://mastodon.social/@unoabraham"
+        url = "https://mastodon.social/@unoabraham rel="me""
 
   # Links List #3
   [[params.links]]
@@ -94,7 +94,7 @@ copyright = "&copy;2018 Rajiv Abraham Nela"
 
       [[params.links.list3.link]]
         text = "Family Tree"
-        url = "https://nela.in/"
+        url = "https://nela.in/ rel="me""
 
       [[params.links.list3.link]]
         text = "Email"
