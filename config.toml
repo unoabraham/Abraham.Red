@@ -27,7 +27,7 @@ copyright = "&copy;2018 Rajiv Abraham Nela"
   [params.content]
     name = "Rajiv Abraham Nela"
     tagline = "Christian. Audiophile. Geek."
-    bio = "Rajiv Abraham Nela is a Christian, Investor, Audiophile, Foodie, Shutterbug, Geek, Traveler, and occasional Blogger, TESTed though he's trying to change that last bit."
+    bio = "Rajiv Abraham Nela is a Christian, Investor, Audiophile, Foodie, Shutterbug, Geek, Traveler, and occasional Blogger, though he's trying to change that last bit."
 
   # Section - Visual
   [params.visual]
