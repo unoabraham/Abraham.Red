@@ -94,7 +94,7 @@ copyright = "&copy;2018 Rajiv Abraham Nela"
   # Links List #3
   [[params.links]]
     [params.links.list3]
-      heading = "Life"
+      heading = "Personal"
 
       
       [[params.links.list3.link]]
