@@ -18,7 +18,7 @@ copyright = "&copy;2018 Rajiv Abraham Nela"
 
   # Metadata for search engines and social sharing
   name = "Rajiv Abraham Nela"
-  description = "Rajiv Abraham Nela is a Christian, Investor, Audiophile, Foodie, Shutterbug, Geek, Traveler, and Occasional Blogger, though he's trying to change that last bit."
+  description = "Rajiv Abraham Nela is a Christian, investor, audiophile, foodie, shutterbug, geek, and occasional blogger, though he's trying to change that last bit."
   shareImage = "images/RajivAbrahamNela.jpg"
   twitterHandle = "unoabraham"
 
@@ -29,7 +29,7 @@ copyright = "&copy;2018 Rajiv Abraham Nela"
   [params.content]
     name = "Rajiv Abraham Nela"
     tagline = "Christian. Audiophile. Geek."
-    bio = "Rajiv Abraham Nela is a Christian, Investor, Audiophile, Foodie, Shutterbug, Geek, Traveler, and occasional Blogger, though he's trying to change that last bit."
+    bio = "Rajiv Abraham Nela is a Christian, investor, audiophile, foodie, shutterbug, geek, and occasional blogger, though he's trying to change that last bit."
 
   # Section - Visual
   [params.visual]
@@ -59,13 +59,17 @@ copyright = "&copy;2018 Rajiv Abraham Nela"
         url = "https://abraham.uno/"
 
       [[params.links.list1.link]]
-        text = "Linkblogger"
-        url = "https://abraham.link/"
-
-      [[params.links.list1.link]]
         text = "Photoblogger"
         url = "https://abraham.gallery/"
+      
+      [[params.links.list1.link]]
+        text = "Indieblogger"
+        url = "https://abraham.onl/"
 
+      [[params.links.list1.link]]
+        text = "Linkblogger"
+        url = "https://abraham.link/"
+         
       [[params.links.list1.link]]
         text = ""
         url = ""
@@ -90,8 +94,13 @@ copyright = "&copy;2018 Rajiv Abraham Nela"
   # Links List #3
   [[params.links]]
     [params.links.list3]
-      heading = "Network"
+      heading = "Life"
 
+      
+      [[params.links.list3.link]]
+        text = "Journal"
+        url = "https://abraham.life/"
+      
       [[params.links.list3.link]]
         text = "Family Tree"
         url = "https://nela.in/"
@@ -102,7 +111,7 @@ copyright = "&copy;2018 Rajiv Abraham Nela"
 
       [[params.links.list3.link]]
         text = "Call 939ABRAHAM"
-        url = "#"
+        url = ""
 
   # The original template is released under the Creative Commons Attribution 3.0 License.
   # Please keep the original attribution link when using for your own project.
