@@ -109,9 +109,9 @@ copyright = "&copy;2018 Rajiv Abraham Nela"
         text = "Email"
         url = "mailto:a@brah.am"
 
-      [[params.links.list3.link]]
-        text = "Call 939ABRAHAM"
-        url = ""
+      #[[params.links.list3.link]]
+       # text = "Call 939ABRAHAM"
+       # url = ""
 
   # The original template is released under the Creative Commons Attribution 3.0 License.
   # Please keep the original attribution link when using for your own project.
