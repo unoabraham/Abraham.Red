@@ -95,15 +95,14 @@ copyright = "&copy;2018 Rajiv Abraham Nela"
   [[params.links]]
     [params.links.list3]
       heading = "Personal"
-
-      
-      [[params.links.list3.link]]
-        text = "Journal"
-        url = "https://abraham.life/"
-      
+                
       [[params.links.list3.link]]
         text = "Family Tree"
         url = "https://nela.in/"
+
+      [[params.links.list3.link]]
+        text = "Journal"
+        url = "https://abraham.life/"
 
       [[params.links.list3.link]]
         text = "Email"
