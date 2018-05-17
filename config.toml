@@ -19,11 +19,11 @@ copyright = "&copy;2018 Rajiv Abraham Nela"
   # Metadata for search engines and social sharing
   name = "Rajiv Abraham Nela"
   description = "Rajiv Abraham Nela is a Christian, audiophile, foodie, shutterbug, geek, and occasional blogger, though he's trying to change that last bit."
-  shareImage = "images/RajivAbrahamNela.jpg"
+  shareImage = "images/Abraham.jpg"
   twitterHandle = "unoabraham"
 
   # Favicon
-  favicon = "images/RajivAbrahamNela.jpg"
+  favicon = "images/Abraham.jpg"
 
   # Section - Content
   [params.content]
@@ -37,7 +37,7 @@ copyright = "&copy;2018 Rajiv Abraham Nela"
     # Image
     [params.visual.image]
       enable = true
-      file = "images/RajivAbrahamNela.jpg"
+      file = "images/Abraham.jpg"
       position = "center center"
 
     # Video
