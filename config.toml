@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "https://eager-brown-0291a7.netlify.com/"
+baseURL = "https://abraham.red/"
 languageCode = "en-US"
 title = "Rajiv Abraham Nela"
 theme = "hugo-split-theme"
