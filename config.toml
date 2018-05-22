@@ -19,11 +19,11 @@ copyright = "&copy;2018 Rajiv Abraham Nela"
   # Metadata for search engines and social sharing
   name = "Rajiv Abraham Nela"
   description = "Rajiv Abraham Nela is a Christian, audiophile, foodie, smartphone shutterbug, geek, and occasional blogger, though he's trying to change that last bit."
-  shareImage = "http://res.cloudinary.com/abraham/image/upload/q_100/v1526951769/Abraham.jpg"
+  shareImage = "https://res.cloudinary.com/abraham/image/upload/v1526951769/Abraham.jpg"
   twitterHandle = "unoabraham"
 
   # Favicon
-  favicon = "http://res.cloudinary.com/abraham/image/upload/q_100/v1526951769/Abraham.jpg"
+  favicon = "https://res.cloudinary.com/abraham/image/upload/v1526951769/Abraham.jpg"
 
   # Section - Content
   [params.content]
@@ -37,7 +37,7 @@ copyright = "&copy;2018 Rajiv Abraham Nela"
     # Image
     [params.visual.image]
       enable = true
-      file = "http://res.cloudinary.com/abraham/image/upload/q_100/v1526951769/Abraham.jpg"
+      file = "https://res.cloudinary.com/abraham/image/upload/v1526951769/Abraham.jpg"
       position = "center center"
 
     # Video
