@@ -18,7 +18,7 @@ copyright = "&copy;2018 Rajiv Abraham Nela"
 
   # Metadata for search engines and social sharing
   name = "Rajiv Abraham Nela"
-  description = "Rajiv Abraham Nela is a Christian, audiophile, foodie, shutterbug, geek, and occasional blogger, though he's trying to change that last bit."
+  description = "Rajiv Abraham Nela is a believer, audiophile, foodie, shutterbug, geek, and occasional blogger, though he's trying to change that last bit."
   shareImage = "http://res.cloudinary.com/abraham/image/upload/q_100/v1526951769/Abraham.jpg"
   twitterHandle = "unoabraham"
 
@@ -28,8 +28,8 @@ copyright = "&copy;2018 Rajiv Abraham Nela"
   # Section - Content
   [params.content]
     name = "Rajiv Abraham Nela"
-    tagline = "Christian. Audiophile. Geek."
-    bio = "Rajiv Abraham Nela is a Christian, audiophile, foodie, shutterbug, geek, and occasional blogger, though he's trying to change that last bit."
+    tagline = "Believer. Audiophile. Geek."
+    bio = "Rajiv Abraham Nela is a believer, audiophile, foodie, shutterbug, geek, and occasional blogger, though he's trying to change that last bit."
 
   # Section - Visual
   [params.visual]
