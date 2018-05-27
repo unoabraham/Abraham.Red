@@ -4,7 +4,7 @@ Split is a single page, centrally-divided layout for a professional online prese
 
 This Hugo theme features an image or video visual section as well as a content section for your name, tagline, bio, and links.
 
-![Hugo Split Theme screenshot](https://raw.githubusercontent.com/christianmendoza/hugo-split-theme/master/images/screenshot.png)
+![Hugo Split Theme screenshot](https://raw.githubusercontent.com/escalate/hugo-split-theme/master/images/screenshot.png)
 
 
 ## Installation
@@ -12,7 +12,7 @@ This Hugo theme features an image or video visual section as well as a content s
 Inside the folder of your Hugo site run:
 
     $ cd themes
-    $ git clone https://github.com/christianmendoza/hugo-split-theme
+    $ git clone https://github.com/escalate/hugo-split-theme.git
 
 For more information read the official [setup guide](//gohugo.io/overview/installing/) of Hugo.
 
@@ -24,7 +24,44 @@ After installing the Split theme successfully it requires a just a few more step
 
 ### The config file
 
-Take a look inside the [`exampleSite`](//github.com/christianmendoza/hugo-split-theme/tree/master/exampleSite) folder of this theme. You'll find a file called [`config.toml`](//github.com/christianmendoza/hugo-split-theme/blob/master/exampleSite/config.toml). To use it, copy the [`config.toml`](//github.com/christianmendoza/hugo-split-theme/blob/master/exampleSite/config.toml) in the root folder of your Hugo site. Feel free to customize this theme as you like.
+Take a look inside the [`exampleSite`](//github.com/escalate/hugo-split-theme/tree/master/exampleSite) folder of this theme. You'll find a file called [`config.toml`](//github.com/escalate/hugo-split-theme/blob/master/exampleSite/config.toml). To use it, copy the [`config.toml`](//github.com/escalate/hugo-split-theme/blob/master/exampleSite/config.toml) in the root folder of your Hugo site. Feel free to customize this theme as you like.
+
+
+### Add content
+
+#### Homepage
+
+Add a file named `_index.md` inside content directory to create your homepage. Use TOML configuration elements to set `title` and `tagline` of your page. Simple write your content in markdown style.
+
+
+    $ hugo new content/_index.md
+
+
+```markdown
++++
+title = "Jenny Jones"
+tagline = "Designer. Stylist. Nomad."
++++
+
+Donec at libero id lectus porta dapibus eu in nibh. Cras id mauris sapien. Fusce viverra [luctus urna]({{< ref "luctus-urna.md" >}}) ac rutrum. Duis semper elit eu mi facilisis eleifend. Donec semper, [ipsum in]({{< ref "ipsum-in.md" >}}) malesuada congue, [purus sem]({{< ref "purus-sem.md" >}}) ullamcorper massa, sit amet lacinia nibh enim sed massa.
+```
+
+
+#### Additional pages
+
+You can create additional pages as usual inside content directory.
+
+
+    $ hugo new content/luctus-urna.md
+
+
+```markdown
++++
+title = "luctus urna"
++++
+
+Aenean posuere, tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus. Donec elit libero, sodales nec, volutpat a, suscipit non, turpis. Nullam sagittis. Suspendisse pulvinar, augue ac venenatis condimentum, sem libero volutpat nibh, nec pellentesque velit pede quis nunc.
+```
 
 
 ### Use an image
@@ -79,19 +116,7 @@ Get the ID of the YouTube video and add it to `youtubeId`. Make sure you delete 
 
 ##### Additional settings
 
-Set `mute` to `true` if you want the video to play muted and `false` if you want the sound. The video is coded to autoplay and loop. If you want to change that the code can be found in [`layouts/partials/video.html`](//github.com/christianmendoza/hugo-split-theme/tree/master/layouts/partials/video.html).
-
-
-### Add content
-
-`name`, `tagline` and `bio` corresponds to their respective text in the content section. Use markdown in `bio` to add any links.
-
-```toml
-[params.content]
-  name = "Jenny Jones"
-  tagline = "Designer. Stylist. Nomad."
-  bio = "Donec at libero id lectus porta dapibus eu in nibh. Cras id mauris sapien. Fusce viverra [luctus urna](#) ac rutrum. Duis semper elit eu mi facilisis eleifend. Donec semper, [ipsum in](#) malesuada congue, [purus sem](#) ullamcorper massa, sit amet lacinia nibh enim sed massa."
-```
+Set `mute` to `true` if you want the video to play muted and `false` if you want the sound. The video is coded to autoplay and loop. If you want to change that the code can be found in [`layouts/partials/video.html`](//github.com/escalate/hugo-split-theme/tree/master/layouts/partials/video.html).
 
 
 ### Add links
@@ -122,10 +147,10 @@ This is what generates one link list:
 
 ### Add metadata
 
-`name` and `description` metadata helps search engines with how to display your site in search results. `shareImage` and `twitterHandle` help improves how your content is displayed when your site is shared across social media sites.
+`author` and `description` metadata helps search engines with how to display your site in search results. `shareImage` and `twitterHandle` help improves how your content is displayed when your site is shared across social media sites.
 
 ```toml
-name = "Jenny Jones"
+author = "Jenny Jones"
 description = "Split is a centrally-divided layout for a professional online presence with a big image or video left with alongside content."
 shareImage = "images/social.jpg"
 twitterHandle = "onepagelove"
@@ -133,7 +158,7 @@ twitterHandle = "onepagelove"
 
 
 ### Add favicon
-Replace [`static/favicon.ico`](//github.com/christianmendoza/hugo-split-theme/tree/master/static/favicon.ico) with your favicon. If you don't want just delete `favicon.ico` and the line below.
+Replace [`static/favicon.ico`](//github.com/escalate/hugo-split-theme/tree/master/static/favicon.ico) with your favicon. If you don't want just delete `favicon.ico` and the line below.
 
 ```toml
 favicon = "favicon.ico"
@@ -168,12 +193,12 @@ Now enter [`localhost:1313`](http://localhost:1313) in the address bar of your b
 
 ## Contributing
 
-Did you found a bug or got an idea for a new feature? Feel free to use the [issue tracker](//github.com/christianmendoza/hugo-split-theme/issues) to let me know. Or make directly a [pull request](//github.com/christianmendoza/hugo-split-theme/pulls).
+Did you found a bug or got an idea for a new feature? Feel free to use the [issue tracker](//github.com/escalate/hugo-split-theme/issues) to let me know. Or make directly a [pull request](//github.com/escalate/hugo-split-theme/pulls).
 
 
 ## License
 
-The original template is released under the [Creative Commons Attribution 3.0 License](//github.com/christianmendoza/hugo-split-theme/blob/master/LICENSE.md). Please keep the original attribution link when using for your own project. If you'd like to use the template without the attribution, you can check out the license option via the template [author's website](//onepagelove.com/split).
+The original template is released under the [Creative Commons Attribution 3.0 License](//github.com/escalate/hugo-split-theme/blob/master/LICENSE.md). Please keep the original attribution link when using for your own project. If you'd like to use the template without the attribution, you can check out the license option via the template [author's website](//onepagelove.com/split).
 
 
 ## Annotations
