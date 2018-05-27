@@ -97,7 +97,7 @@ copyright = "&copy;2018 Rajiv Abraham Nela"
       heading = "Personal"
                 
       [[params.links.list3.link]]
-        text = "Family Tree"
+        text = "Family"
         url = "https://nela.in/"
 
       [[params.links.list3.link]]
