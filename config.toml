@@ -4,6 +4,7 @@ languageCode = "en-US"
 title = "Rajiv Abraham Nela"
 theme = "hugo-split-theme"
 disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT"]
+
 [blackfriday]
   plainIDAnchors = true
   hrefTargetBlank = true
@@ -70,9 +71,9 @@ copyright = "&copy;2018 Rajiv Abraham Nela"
         #text = "Indieblog"
         #url = "https://abraham.onl/"
 
-      [[params.links.list1.link]]
-        text = "Bookmarks"
-        url = "https://abraham.link/"
+      #[[params.links.list1.link]]
+        #text = "Bookmarks"
+        #url = "https://abraham.link/"
          
       [[params.links.list1.link]]
         text = ""
