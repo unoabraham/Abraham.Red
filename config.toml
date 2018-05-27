@@ -53,7 +53,7 @@ copyright = "&copy;2018 Rajiv Abraham Nela"
   # Links List #1
   [[params.links]]
     [params.links.list1]
-      heading = "Connect"
+      heading = "Personal"
 
       [[params.links.list1.link]]
         text = "Blog"
@@ -67,6 +67,10 @@ copyright = "&copy;2018 Rajiv Abraham Nela"
         text = "Photoblog"
         url = "https://abraham.one/"
       
+      [[params.links.list1.link]]
+        text = "Journal"
+        url = "https://abraham.life/"
+      
       #[[params.links.list1.link]]
         #text = "Indieblog"
         #url = "https://abraham.onl/"
@@ -75,39 +79,39 @@ copyright = "&copy;2018 Rajiv Abraham Nela"
         #text = "Bookmarks"
         #url = "https://abraham.link/"
          
-      [[params.links.list1.link]]
-        text = ""
-        url = ""
+      #[[params.links.list1.link]]
+        #text = ""
+        #url = ""
       
   # Links List #2
-  [[params.links]]
-    [params.links.list2]
-      heading = "Social"
+  #[[params.links]]
+    #[params.links.list2]
+      #heading = "Social"
 
-      [[params.links.list2.link]]
-        text = "Facebook"
-        url = "https://www.facebook.com/939abraham"
+      #[[params.links.list2.link]]
+        #text = "Facebook"
+        #url = "https://www.facebook.com/939abraham"
 
-      [[params.links.list2.link]]
-        text = "Twitter"
-        url = "https://twitter.com/unoabraham"
+      #[[params.links.list2.link]]
+        #text = "Twitter"
+        #url = "https://twitter.com/unoabraham"
 
-      [[params.links.list2.link]]
-        text = "Mastodon"
-        url = "https://mastodon.social/@unoabraham"
+      #[[params.links.list2.link]]
+        #text = "Mastodon"
+        #url = "https://mastodon.social/@unoabraham"
 
   # Links List #3
   [[params.links]]
     [params.links.list3]
-      heading = "Personal"
+      heading = "Connect"
                 
       [[params.links.list3.link]]
         text = "Family"
         url = "https://nela.in/"
 
-      [[params.links.list3.link]]
-        text = "Journal"
-        url = "https://abraham.life/"
+      #[[params.links.list3.link]]
+        #text = "Journal"
+        #url = "https://abraham.life/"
 
       [[params.links.list3.link]]
         text = "Email"
