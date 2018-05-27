@@ -55,19 +55,23 @@ copyright = "&copy;2018 Rajiv Abraham Nela"
       heading = "Connect"
 
       [[params.links.list1.link]]
+        text = "Blog"
+        url = "https://nela.blog/"
+
+      [[params.links.list1.link]]
         text = "Microblog"
         url = "https://abraham.uno/"
 
       [[params.links.list1.link]]
         text = "Photoblog"
-        url = "https://abraham.gallery/"
+        url = "https://abraham.one/"
       
-      [[params.links.list1.link]]
-        text = "Indieblog"
-        url = "https://abraham.onl/"
+      #[[params.links.list1.link]]
+        #text = "Indieblog"
+        #url = "https://abraham.onl/"
 
       [[params.links.list1.link]]
-        text = "Linkblog"
+        text = "Bookmarks"
         url = "https://abraham.link/"
          
       [[params.links.list1.link]]
