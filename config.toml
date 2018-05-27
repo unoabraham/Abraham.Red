@@ -62,9 +62,9 @@ copyright = "&copy;2018 Rajiv Abraham Nela"
         text = "Photoblog"
         url = "https://abraham.one/"
       
-      [[params.links.list1.link]]
-        text = "Indieblog"
-        url = "https://abraham.onl/"
+      #[[params.links.list1.link]]
+        #text = "Indieblog"
+        #url = "https://abraham.onl/"
 
       [[params.links.list1.link]]
         text = "Linkblog"

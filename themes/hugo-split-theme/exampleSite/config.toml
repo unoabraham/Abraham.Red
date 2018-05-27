@@ -1,9 +1,9 @@
 # Site settings
-baseURL = "https://example.org/"
+baseURL = "//example.org"
 languageCode = "en-US"
 title = "Split - HTML Template Demo"
 theme = "hugo-split-theme"
-disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT"]
+disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
 
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = ""
@@ -14,19 +14,13 @@ copyright = "&copy;2018 Your Name"
 [params]
 
   # Metadata for search engines and social sharing
-  name = "Jenny Jones"
+  author = "Jenny Jones"
   description = "Split is a centrally-divided layout for a professional online presence with a big image or video left with alongside content."
   shareImage = "images/social.jpg"
   twitterHandle = "onepagelove"
 
   # Favicon
   favicon = "favicon.ico"
-
-  # Section - Content
-  [params.content]
-    name = "Jenny Jones"
-    tagline = "Designer. Stylist. Nomad."
-    bio = "Donec at libero id lectus porta dapibus eu in nibh. Cras id mauris sapien. Fusce viverra [luctus urna](#) ac rutrum. Duis semper elit eu mi facilisis eleifend. Donec semper, [ipsum in](#) malesuada congue, [purus sem](#) ullamcorper massa, sit amet lacinia nibh enim sed massa."
 
   # Section - Visual
   [params.visual]
