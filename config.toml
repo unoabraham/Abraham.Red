@@ -70,35 +70,27 @@ copyright = "&copy;2018 Rajiv Abraham Nela"
       [[params.links.list1.link]]
         text = "Journal"
         url = "https://abraham.life/"
-      
-      #[[params.links.list1.link]]
-        #text = "Indieblog"
-        #url = "https://abraham.onl/"
-
-      #[[params.links.list1.link]]
-        #text = "Bookmarks"
-        #url = "https://abraham.link/"
-         
+               
       #[[params.links.list1.link]]
         #text = ""
         #url = ""
       
   # Links List #2
-  #[[params.links]]
-    #[params.links.list2]
-      #heading = "Social"
+  [[params.links]]
+    [params.links.list2]
+      heading = "Social"
 
-      #[[params.links.list2.link]]
-        #text = "Facebook"
-        #url = "https://www.facebook.com/939abraham"
+      [[params.links.list2.link]]
+        text = "Facebook"
+        url = "https://www.facebook.com/939abraham"
 
-      #[[params.links.list2.link]]
-        #text = "Twitter"
-        #url = "https://twitter.com/unoabraham"
+      [[params.links.list2.link]]
+        text = "Twitter"
+        url = "https://twitter.com/unoabraham"
 
-      #[[params.links.list2.link]]
-        #text = "Mastodon"
-        #url = "https://mastodon.social/@unoabraham"
+      [[params.links.list2.link]]
+        text = "Mastodon"
+        url = "https://mastodon.social/@unoabraham"
 
   # Links List #3
   [[params.links]]
