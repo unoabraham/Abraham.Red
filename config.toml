@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "https://abraham.red/"
+baseURL = "https://nela.in/"
 languageCode = "en-US"
 title = "Rajiv Abraham Nela"
 theme = "hugo-split-theme"
@@ -10,7 +10,7 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap",
   hrefTargetBlank = true
 
 # Enter your tracking code to enable Google Analytics
-googleAnalytics = "UA-112438396-3"
+googleAnalytics = "UA-112438396-10"
 
 # Copyright
 copyright = "&copy;2018 Rajiv Abraham Nela"
@@ -65,12 +65,9 @@ copyright = "&copy;2018 Rajiv Abraham Nela"
 
       [[params.links.list1.link]]
         text = "Photoblog"
-        url = "https://abraham.one/"
-      
-      [[params.links.list1.link]]
-        text = "Journal"
         url = "https://abraham.life/"
-               
+      
+                     
       #[[params.links.list1.link]]
         #text = ""
         #url = ""
@@ -95,15 +92,11 @@ copyright = "&copy;2018 Rajiv Abraham Nela"
   # Links List #3
   [[params.links]]
     [params.links.list3]
-      heading = "Connect"
+      heading = "Contact"
                 
-      [[params.links.list3.link]]
-        text = "Family"
-        url = "https://nela.in/"
-
       #[[params.links.list3.link]]
-        #text = "Journal"
-        #url = "https://abraham.life/"
+        #text = "Family"
+        #url = "https://nela.in/"
 
       [[params.links.list3.link]]
         text = "Email"
