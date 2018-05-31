@@ -57,17 +57,16 @@ copyright = "&copy;2018 Rajiv Abraham Nela"
 
       [[params.links.list1.link]]
         text = "Blog"
-        url = "https://nela.blog/"
-
-      [[params.links.list1.link]]
-        text = "Microblog"
         url = "https://abraham.one/"
 
       [[params.links.list1.link]]
         text = "Photoblog"
         url = "https://abraham.red/"
       
-                     
+      [[params.links.list1.link]]
+        text = "Journal"
+        url = "https://nela.blog/"
+                       
       #[[params.links.list1.link]]
         #text = ""
         #url = ""
