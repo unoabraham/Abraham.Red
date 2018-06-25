@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "https://nela.in/"
+baseURL = "https://a.brah.am/"
 languageCode = "en-US"
 title = "Rajiv Abraham Nela"
 theme = "hugo-split-theme"
@@ -19,7 +19,7 @@ copyright = "&copy;2018 Rajiv Abraham Nela"
 
   # Metadata for search engines and social sharing
   name = "Rajiv Abraham Nela"
-  description = "Rajiv Abraham Nela is a Christian, audiophile, foodie, smartphone shutterbug, geek, and occasional blogger, though he's trying to change that last bit."
+  description = "Rajiv Abraham Nela is a Christian, audiophile, foodie, gamer, shutterbug, geek, and occasional blogger, though he's trying to change that last bit."
   shareImage = "https://res.cloudinary.com/abraham/image/upload/v1526951769/Abraham.jpg"
   twitterHandle = "unoabraham"
 
@@ -29,7 +29,7 @@ copyright = "&copy;2018 Rajiv Abraham Nela"
   # Section - Content
   [params.content]
     name = "Rajiv Abraham Nela"
-    tagline = "Christian. Audiophile. Foodie. Shutterbug. Geek."
+    tagline = "Christian. Audiophile. Foodie. Gamer. Shutterbug. Geek."
     bio = "I take dictation from Heaven."
 
   # Section - Visual
