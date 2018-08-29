@@ -30,7 +30,7 @@ copyright = "&copy;2018 Rajiv Abraham Nela"
   [params.content]
     name = "Rajiv Abraham Nela"
     tagline = "Christian. Audiophile. Foodie. Gamer. Shutterbug. Geek."
-    bio = "Trying to live life to the fullest."
+    bio = ""
 
   # Section - Visual
   [params.visual]
